@@ -1,0 +1,5 @@
+jwt:
+  secret: Pd2odm7mwg1nap08
+  token:
+    expiration-time: 43200
+    remember-me-time: 1209600
